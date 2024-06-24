@@ -1,0 +1,12 @@
+algorithm:
+  label: Algorithm
+  permalink: /algorithm
+  description: Algorithm tag description
+django:
+  label: Django
+  permalink: /django
+  description: Django tag description
+spark:
+  label: Spark
+  permalink: /spark
+  description: Spark tag description

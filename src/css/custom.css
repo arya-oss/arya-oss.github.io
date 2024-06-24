@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-font-family-sans-serif: "Inter", sans-serif;
+  --ifm-color-primary: #4566a4;
+  --ifm-color-primary-dark: #3e5c94;
+  --ifm-color-primary-darker: #3b578b;
+  --ifm-color-primary-darkest: #304773;
+  --ifm-color-primary-light: #4c70b4;
+  --ifm-color-primary-lighter: #5577b7;
+  --ifm-color-primary-lightest: #6d8bc2;
+
+  --ifm-code-font-size: 95%;
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: #99c1f1;
+  --ifm-color-primary-dark: #76acec;
+  --ifm-color-primary-darker: #65a1ea;
+  --ifm-color-primary-darkest: #3182e3;
+  --ifm-color-primary-light: #bcd6f6;
+  --ifm-color-primary-lighter: #cde1f8;
+  --ifm-color-primary-lightest: #ffffff;
+}
