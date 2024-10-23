@@ -7,7 +7,7 @@ const config: Config = {
   tagline: "Rajmani Arya's Technical Blog",
   favicon: "img/favicon.ico",
 
-  url: "https://arya-oss.github.io",
+  url: "https://arya-oss.github.io/",
   baseUrl: "/",
 
   organizationName: "arya-oss", // Usually your GitHub org/user name.

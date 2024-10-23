@@ -13,6 +13,8 @@ authors: arya-oss
 Hi, I'm Rajmani Arya. I'm a software engineer and open-source enthusiast.
 I'm passionate about building software that makes a difference.
 
+<!-- truncate -->
+
 ## About Me
 
 I have a Bachelor's degree in Computer Science from the [National Institute of Technology, Warangal](https://www.nitw.ac.in/).
