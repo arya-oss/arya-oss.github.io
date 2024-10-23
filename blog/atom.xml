@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://arya-oss.github.io/blog</id>
+    <title>RaHackYa Blog</title>
+    <updated>2024-06-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://arya-oss.github.io/blog"/>
+    <subtitle>RaHackYa Blog</subtitle>
+    <icon>https://arya-oss.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to my blog]]></title>
+        <id>https://arya-oss.github.io/blog/2024/06/24/my-first-blog</id>
+        <link href="https://arya-oss.github.io/blog/2024/06/24/my-first-blog"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Welcome" src="https://arya-oss.github.io/assets/images/welcome-c8795ea89e420f5f78a306eb1ddea153.jpg" width="1101" height="360" class="img_JpLw"></p>
+<h2 class="anchor anchorWithStickyNavbar_AGCV" id="introduction">Introduction<a href="https://arya-oss.github.io/blog/2024/06/24/my-first-blog#introduction" class="hash-link" aria-label="Direct link to Introduction" title="Direct link to Introduction">​</a></h2>
+<p>Hi, I'm Rajmani Arya. I'm a software engineer and open-source enthusiast.
+I'm passionate about building software that makes a difference.</p>
+<h2 class="anchor anchorWithStickyNavbar_AGCV" id="about-me">About Me<a href="https://arya-oss.github.io/blog/2024/06/24/my-first-blog#about-me" class="hash-link" aria-label="Direct link to About Me" title="Direct link to About Me">​</a></h2>
+<p>I have a Bachelor's degree in Computer Science from the <a href="https://www.nitw.ac.in/" target="_blank" rel="noopener noreferrer">National Institute of Technology, Warangal</a>.
+Currently, I'm working as a <em>Computer Scientist</em> at <a href="https://www.adobe.com/" target="_blank" rel="noopener noreferrer">Adobe</a>. Most of my work involves building scalable and reliable software systems along with
+designing and developing data pipelines for 100s of TBs of data.</p>
+<h2 class="anchor anchorWithStickyNavbar_AGCV" id="what-to-expect-from-this-blog">What to expect from this blog?<a href="https://arya-oss.github.io/blog/2024/06/24/my-first-blog#what-to-expect-from-this-blog" class="hash-link" aria-label="Direct link to What to expect from this blog?" title="Direct link to What to expect from this blog?">​</a></h2>
+<p>My primary focus is on building scalable and reliable software systems. I'm also interested in cloud computing, distributed systems, and open-source software.</p>
+<p>I have worked on various domains, including e-commerce, healthcare and AdTech.
+I have experience working with various programming languages, including <strong>Python</strong>, <strong>Java</strong>, and <strong>C/C++</strong>.
+I'm also familiar with web development technologies like HTML, CSS, and JavaScript/TypeScript.</p>
+<p>I will be sharing my experiences, learnings, and thoughts on various topics related to software engineering and open source.</p>
+<p>Stay tuned for more posts. 🚀</p>]]></content>
+        <author>
+            <name>Rajmani Arya</name>
+            <uri>https://arya-oss.github.io/</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarya_oss=self.webpackChunkarya_oss||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to my blog","permalink":"/blog/2024/06/24/my-first-blog","unlisted":false,"date":"2024-06-24T00:00:00.000Z"}]}')}}]);

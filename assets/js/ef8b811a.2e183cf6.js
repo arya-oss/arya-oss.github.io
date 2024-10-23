@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarya_oss=self.webpackChunkarya_oss||[]).push([[947],{6600:s=>{s.exports=JSON.parse('{"authors":[{"name":"Rajmani Arya","title":"Computer Scientist @ Adobe","url":"https://arya-oss.github.io/","imageURL":"https://github.com/arya-oss.png","key":"arya-oss","page":null,"count":1}]}')}}]);
