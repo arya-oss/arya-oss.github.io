@@ -1,0 +1,41 @@
+/* src/pages/index.module.css */
+.hero {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero__title {
+  font-size: 3rem;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.social-links a:hover {
+  background-color: var(--ifm-color-primary-darker);
+}

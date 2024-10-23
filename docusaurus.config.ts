@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "RaHackYa",
-  tagline: "A website for RaHackYa",
+  tagline: "Rajmani Arya's Technical Blog",
   favicon: "img/favicon.ico",
 
   url: "https://arya-oss.github.io",
@@ -62,7 +62,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} RaHackYa, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Rajmani Arya. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

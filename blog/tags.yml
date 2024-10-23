@@ -1,12 +1,52 @@
 algorithm:
-  label: Algorithm
-  permalink: /algorithm
-  description: Algorithm tag description
+  label: Algorithms
+  permalink: /algorithms
+  description: Algorithms tag description
 django:
   label: Django
   permalink: /django
   description: Django tag description
 spark:
-  label: Spark
+  label: Apache Spark
   permalink: /spark
   description: Spark tag description
+react:
+  label: React
+  permalink: /react
+  description: React tag description
+spring:
+  label: Spring Framework
+  permalink: /spring
+  description: Spring tag description
+java:
+  label: Java
+  permalink: /java
+  description: Java tag description
+python:
+  label: Python
+  permalink: /python
+  description: Python tag description
+scala:
+  label: Scala
+  permalink: /scala
+  description: Scala tag description
+javascript:
+  label: JavaScript
+  permalink: /javascript
+  description: JavaScript tag description
+programming:
+  label: Programming
+  permalink: /programming
+  description: Programming tag description
+web-development:
+  label: Web Development
+  permalink: /web-development
+  description: Web Development tag description
+data-structures:
+  label: Data Structures
+  permalink: /data-structures
+  description: Data Structures tag description
+machine-learning:
+  label: Machine Learning
+  permalink: /machine-learning
+  description: Machine Learning tag description
